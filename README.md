@@ -3,7 +3,7 @@
 * This project was made by group of 4 people that was decided by the proffesor for CIS*2250, Software design 2.
 * This motive of this project is to plot graps using Seaborn, Matplotlib and Pandas.
 * Each member of the group was given individual task.
-* My contribution to this projrct is all the plots and code for Q4 
+* My contribution to this project is all the plots and code for Q4.
 
 
 # Data set locations
